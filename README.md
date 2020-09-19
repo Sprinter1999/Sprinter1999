@@ -6,6 +6,8 @@
 - 📫 You can reach me via my blog's links: [Xuefen's Corner](https://sprinter1999.github.io/)
 - 😜 Thank you for your coming~
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sprinter1999&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
+
 <!--
 **Sprinter1999/Sprinter1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
