@@ -5,7 +5,7 @@
 - I'm Xuefen, now a senior @BUPT, a PHD student @ICT of Chinese Academy of Sciences.
 - 🔭 I’m currently working at a startup company.
 - 🌱 My research interests include Mobile Edge Computing，Networking and Unmanned System Networking Collaboration. 
-- 📫 You can reach me via my blog's links: [Xuefen's Corner](https://sprinter1999.github.io/)
+- 📫 You can reach me via this link: [Click Here](https://sprinter1999.github.io/about/)
 - 😜 Thank you for your coming~
 
 <!--
