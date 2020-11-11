@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sprinter1999&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
 
 - I'm Xuefen, now a senior @BUPT, a PHD student @ICT of Chinese Academy of Sciences.
-- 🌱 My research interest includes Mobile Edge Computing, EdgeAi System and Networking. 
+- 🌱 My research interest includes End-Edge-Cloud Collaborative Computation System. 
 - 📫 You can reach me via this link: [Click Here](https://sprinter1999.github.io/about/)
 - 😜 Thank you for your coming~
 
