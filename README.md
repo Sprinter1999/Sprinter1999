@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sprinter1999&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
 
-- I'm Xuefen, Bachelor@BUPT-CS, a PHD student @ICT of Chinese Academy of Sciences.
+- I'm Xuefen, a PHD student @ICT of Chinese Academy of Sciences, received my bachelor degree@BUPT-CS.
 - 🌱 My research interest recently includes Distributed ML System. 
 - 📫 You can reach me via my email: 215437588@qq.com
 - 😘 I love 🐏 very much
