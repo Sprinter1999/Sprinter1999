@@ -3,9 +3,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sprinter1999&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
 
 - I'm Xuefen, a PHD student @ICT of Chinese Academy of Sciences, received my bachelor degree@BUPT-CS.
-- 🌱 My research interest recently includes Distributed ML System. 
+- 🌱 My research interest recently includes Distributed ML system 
 - 📫 You can reach me via my email: jiangxf0903@gmail.com
-- 😘 I love 🐏 very much
+- 🌱 Life is tough, but we shall never surrender
+- 🔭 Maybe we can collaborate to do some research
 - 😜 Thank you for your coming~
 
 <!--
