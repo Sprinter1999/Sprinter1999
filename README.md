@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 ----
 
-💬 **Recent News ~**:
+### 💬 Recent News~:
 - One full paper got accepted @CIKM 2022
 - Currently workinig one another study.
