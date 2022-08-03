@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~:
-- One full paper got accepted @CIKM 2022
+- My first work got accepted **@CIKM 2022** full paper track.
 - Currently workinig one another study.
