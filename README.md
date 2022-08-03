@@ -5,7 +5,7 @@
 - I'm Xuefen, a PHD student @ICT of Chinese Academy of Sciences, received my bachelor degree@BUPT-CS.
 - 🌱 My research interest recently includes Distributed ML system. 
 - 📫 You can reach me via my email: jiangxf0903@gmail.com .
-- 🌱 Life is tough, but we shall never surrender.
+- ✨ Life is tough, but we shall never surrender.
 - 🔭 Maybe we can collaborate to do some interesting things.
 - 😜 Thank you for your coming~
 
@@ -23,3 +23,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+----
+
+💬 **Recent News ~**:
+- One full paper got accepted @CIKM 2022
+- Currently workinig one another study.
