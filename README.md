@@ -6,6 +6,7 @@
 - 🌱 My research interest recently includes Distributed ML system. 
 - 📫 You can reach me via my email: jiangxf0903@gmail.com .
 - ✨ Life is tough, but we shall never surrender.
+- 😢 I feel depressed and negative from time to time.
 - 🔭 Maybe we can collaborate to do some interesting things.
 - 😜 Thank you for your coming~
 
