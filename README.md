@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 ### 💬 Recent News~
 - My first work got accepted **@CIKM 2022** full paper track.
 - Currently workinig on another study.
+
+<img width="200" height="150" src="https://user-images.githubusercontent.com/14993256/109053987-54418f80-76ab-11eb-98bd-2c119d8a61ce.gif">
