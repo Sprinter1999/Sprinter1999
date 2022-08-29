@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~
-- My first work got accepted **@CIKM 2022** full paper track.
-- Currently workinig on another study (towards ICLR 2023).
+- 🗽 My first work got accepted **@ACM/CIKM 2022** full paper track.
+- 🌱Currently workinig on another study (towards ICLR 2023).
 
