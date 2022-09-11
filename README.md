@@ -4,7 +4,7 @@
 
 - I'm Xuefen, a PHD student @ICT of Chinese Academy of Sciences, received my bachelor degree@BUPT-CS.
 - 🌱 My research interest recently includes Distributed ML system.
-- ⚡ I am passionate about uncovering valuable research topics.
+- ⚡ I am passionate about uncovering valuable & unsettled research topics.
 - 📫 You can reach me via my email: jiangxf0903@gmail.com .
 - ✨ Life is tough, but we shall never surrender.
 - 😢 I feel depressed and negative from time to time.
