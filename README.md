@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sprinter1999&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
 
-- I'm Xuefen, a PHD student @ICT of Chinese Academy of Sciences, received my bachelor degree@BUPT-CS.
+- I'm Xuefen, a PHD student @ICT of Chinese Academy of Sciences, received my bachelor degree@BUPT-CS in the summer of 2021.
 - 🌱 My research interest recently includes Distributed ML system.
 - ⚡ I am passionate about uncovering valuable & unsettled research topics.
 - 📫 You can reach me via my email: jiangxf0903@gmail.com .
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 ### 💬 Recent News~
 - 🗽 My first work got accepted **@ACM/CIKM 2022** full paper track.
-- 🌱Currently workinig on another study (towards ~~🚩ICLR~~ CVPR/WWW/ICDE 2023).
+- 🌱Currently workinig on another study (towards ~~🚩ICLR~~ CVPR or WWW or ICDE 2023).
 
