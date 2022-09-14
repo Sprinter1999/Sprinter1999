@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - 🌱Currently workinig on another study (towards ~~🚩ICLR~~ CVPR or WWW or ICDE 2023).
 
 ----
-### Please feel free to contact me via WeChat.
+### ❄Please feel free to contact me via WeChat.
 <img src="wx.jpg" alt="drawing" width="200"/>
