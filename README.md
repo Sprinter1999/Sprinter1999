@@ -2,12 +2,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sprinter1999&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
 
-- I'm Xuefen, a PHD student @ICT of Chinese Academy of Sciences, received my bachelor degree@BUPT-CS in the summer of 2021.
-- 🌱 My research interest recently includes Distributed ML system.
-- ⚡ I am passionate about uncovering valuable & unsettled research topics.
-- 📫 You can reach me via my email: jiangxf0903@gmail.com .
+- 🍁I'm Xuefen, a PHD student @ICT of Chinese Academy of Sciences, received my bachelor degree@BUPT-CS in the summer of 2021.
+- 🌱 My research interest recently includes Distributed ML system, and I'm passionate about uncovering valuable & unsettled research topics.
+- 📫 You can reach me via my email: jiangxf0903@gmail.com, and here is my [resume](https://github.com/Sprinter1999/Resume/blob/main/Xuefeng_Jiang_Resume.pdf).
 - ✨ Life is tough, but we shall never surrender.
-- 😢 I feel depressed and negative from time to time.
+- ☔ I feel depressed and negative sometimes.
 - 🔭 Maybe we can collaborate to do some interesting things.
 - 😜 Thank you for your coming~
 
