@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 💬 Recent News~
 - 🗽 My first work got accepted **@ACM/CIKM 2022** full paper track.
-- 🌱Currently workinig on another study (towards ~~🚩ICLR~~ CVPR or WWW or ICDE 2023).
+- 🌱Currently workinig on another study.
 
 ----
 ### ❄Please feel free to contact me via WeChat, and it's a huge pleasure for me to know about you.
