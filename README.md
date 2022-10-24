@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 ### 💬 Recent News~
 - 🗽 [My first work](https://github.com/Sprinter1999/FedLSR) got accepted **@ACM/CIKM 2022** full paper track.
-- 🌱Currently workinig on another study.
+- 🌱 Currently workinig on another study.
+- ⚡ Considering setup a talk/seminar/knowledge-sharing slide collection on Github.
 
 ----
 ### ❄Please feel free to contact me via WeChat, and it's a huge pleasure for me to know about you.
