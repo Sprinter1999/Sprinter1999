@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 ### 💬 Recent News~
 - 🗽 [My first work](https://github.com/Sprinter1999/FedLSR) got accepted **@ACM/CIKM 2022** full paper track.
-- 📖 Currently diving into the sea of knowledge.
+- 📖 Currently diving into the sea of knowledge and explore together with friends.
+- 🚗 Join AMD and focus on Auto-Drive (especially Auto-Parking) as a "Co-op".
 - ⚡ Considering setup a report/talk/seminar/knowledge-sharing slide collection on Github.
 
 ----
