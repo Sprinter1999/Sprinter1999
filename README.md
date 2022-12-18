@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~
-- 💻 One co-authored work finally got accepted **@ IEEE/IPDPS 2023**, congrats to Xujing哥!
+- 🎉 One co-authored work finally got accepted **@ IEEE/IPDPS 2023**, congrats to Xujing哥!
 - 🗽 [My first work](https://github.com/Sprinter1999/FedLSR) got accepted **@ ACM/CIKM 2022** full paper track.
 - 📖 Currently diving into the sea of knowledge and explore together with friends.
 - 🚗 Join AMD and focus on Auto-Drive (especially in localization & behavior prediction) as a "Co-op".
