@@ -8,7 +8,7 @@
 - 🌱 My research interest recently includes Distributed ML system and various deep learning applications, and I'm passionate about uncovering valuable & unsettled research topics.
 - 📫 You can reach me via my email: jiangxf0903@gmail.com, view my [Google scholar](https://scholar.google.com/citations?user=ccOCPpEAAAAJ), and here is my [Resume](https://github.com/Sprinter1999/Resume/blob/main/Xuefeng_Jiang_Resume.pdf).
 - ✨ Life is tough, but we shall never surrender.
-- 🌼 I love films & anime & sightseeing & music & night & sleeping.
+- 🌼 I love films & anime & [sightseeing](https://www.instagram.com/snowmaker1999/) & music & night & sleeping.
 - 🔭 Maybe we can collaborate to do some interesting things.
 - 😜 Thank you for your coming~
 
