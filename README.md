@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 - 📖 Currently dive into the sea of knowledge and explore together with friends.
 - 🚗 Join AMD and focus on Auto-Drive (especially in visual SLAM & behavior prediction) as a "Co-op".
 ----
-### ❄Please feel free to contact me via WeChat, and it's a huge pleasure for me to know about you.
+### ❄Please feel free to contact me via WeChat, and it's a huge pleasure for me to discuss&chat with you.
 <img src="wx.jpg" alt="drawing" width="150"/>
