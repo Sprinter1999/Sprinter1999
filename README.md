@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### 💬 Recent News~
 - 📚 Accept to serve as a reviewer **@ AAAI 2023 workshop**.
-- 🎉 One co-authored work finally got accepted **@ IEEE/IPDPS 2023**, congrats to Xujing哥!
+- 🎉 Two co-authored works finally got accepted **@ IEEE/IPDPS 2023**, congrats to Xujing哥 & Jing姐!
 - 🗽 [My first work](https://github.com/Sprinter1999/FedLSR) got accepted **@ ACM/CIKM 2022** full paper track, and I'm currently working on its extension.
 - 📖 Currently dive into the sea of knowledge and explore together with friends.
 - 🚗 Join AMD and focus on Auto-Drive (especially in visual SLAM & behavior prediction) as a "Co-op".
