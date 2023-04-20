@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~
-- 🎉 Our FedNoro got accepted **@IJCAI 2023** main track wich focus on both noisy&long-tailed data, congrats to ✨NanNan✨!
+- 🎉 Our FedNoro got accepted **@IJCAI 2023** main track which focuses on noisy&long-tailed data, congrats to ✨NanNan✨!
 - 📚 Accept to serve as a reviewer for **`NeurIPS 2023` & `AAAI 2023 workshop`**.
-- 🎉 Two co-authored works finally got accepted **@IEEE/IPDPS 2023**, congrats to ✨Xujing哥&Jing姐✨!
-- 🗽 [My first work FedLSR](https://github.com/Sprinter1999/FedLSR) got accepted **@ACM/CIKM 2022** full paper track, and I'm currently working on its extension.
+- 🎉 Two co-authored works FedTrip&FedBIAD finally got accepted **@IEEE/IPDPS 2023**, congrats to ✨Xujing哥&Jing姐✨!
+- 🗽 [My first work](https://github.com/Sprinter1999/FedLSR) FedLSR got accepted **@ACM/CIKM 2022** full paper track, and I'm currently working on its extension.
 - 📖 Currently dive into the sea of knowledge and explore together with friends.
 - 🚗 Join AMD and focus on Auto-Drive (especially in visual SLAM & behavior prediction) as a "Co-op".
 ----
