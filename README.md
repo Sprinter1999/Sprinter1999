@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~
+- 😄 I'll be a volunteer [@ACM Turing Meetup](https://www.acmturc.com/2023/cn/index.html) because my supervisor serves as a PC, perhaps we can meet in Wuhan this summer!
 - 🎉 Our [FedNoRo](https://github.com/wnn2000/FedNoRo) which focuses on noisy&long-tailed data got accepted **@IJCAI 2023** main track, congrats to ✨NanNan✨!
 - 📚 Accept to serve as a reviewer for **`NeurIPS 2023` & `AAAI 2023 workshop`**.
 - 🎉 Two co-authored works FedTrip&FedBIAD finally got accepted **@IEEE/IPDPS 2023**, congrats to ✨Xujing哥&Jing姐✨!
