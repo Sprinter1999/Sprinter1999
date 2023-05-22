@@ -8,7 +8,7 @@
 - 🌱 My research interest recently includes `distributed ML system`, `data quality` and `various deep learning applications`. I'm passionate about uncovering valuable & unsettled research topics, so perhaps we can collaborate to do some interesting things😆.
 - 📫 You can reach me via my email: jiangxf0903@gmail.com, view my [Google scholar](https://scholar.google.com/citations?user=ccOCPpEAAAAJ), and here is my [Resume (updated in Aug,2022)](https://github.com/Sprinter1999/Resume/blob/main/Xuefeng_Jiang_Resume.pdf).
 - ✨ Take it slow because we can go further.
-- 🌼 I love films & anime & [sightseeing](https://www.instagram.com/snowmaker1999/) & music & night & sleeping a lot.
+- 🌼 I love films & anime & [sightseeing](https://www.instagram.com/snowmaker1999/) & music & night & sleeping a lot. I'm also an Apex & Overwatch amateur player : )
 - 😜 Thank you for your coming~
 <!--
 **Sprinter1999/Sprinter1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
