@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~
-- ⛪I initialize the website of our lab, welcome to visit [ICT-MobileComputingTeam](https://sprinter1999.github.io/ICT-MobileComputingTeam/)!
+- ⛪I help to initialize the website of our lab, welcome to visit [ICT-MobileComputingTeam](https://sprinter1999.github.io/ICT-MobileComputingTeam/)!
 - 😄 I'll be a volunteer [@ACM Turing Meetup](https://www.acmturc.com/2023/cn/index.html) because my supervisor serves as a PC, perhaps we can meet in Wuhan this summer!
 - 🎉 Our [FedNoRo](https://github.com/wnn2000/FedNoRo) which focuses on noisy&long-tailed data got accepted **@IJCAI 2023** main track, congrats to ✨NanNan✨!
 - 📚 Accept to serve as a reviewer for **`NeurIPS'23` & `AAAI'23 workshop` & `KDD'23 workshop` & `ECAI'23`**.
