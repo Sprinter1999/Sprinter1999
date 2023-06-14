@@ -4,7 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sprinter1999&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
 
 
-- 🍁I'm Xuefen (雪枫 in Chinese), a Ph.D. student @[Institute of Computing Technology of Chinese Academy of Sciences](http://www.ict.ac.cn/), received my bachelor degree@[BUPT](https://scs.bupt.edu.cn/) in the summer of 2021.
+- 🍁 I'm Xuefen (雪枫 in Chinese), a Ph.D. student @[Institute of Computing Technology of Chinese Academy of Sciences](http://www.ict.ac.cn/), received my bachelor degree@[BUPT](https://scs.bupt.edu.cn/) in the summer of 2021.
 - 🌱 My research interest recently includes `distributed ML system`, `data quality`,  `cyber security` and `various deep learning applications`. I'm passionate about uncovering valuable & unsettled research topics, so perhaps we can collaborate to do some interesting things😆.
 - 📫 You can reach me via my email: jiangxf0903@gmail.com, view my [Google scholar](https://scholar.google.com/citations?user=ccOCPpEAAAAJ), and here is my [Resume (updated in Aug,2022)](https://github.com/Sprinter1999/Resume/blob/main/Xuefeng_Jiang_Resume.pdf).
 - ✨ Take it slow because we can go further.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~
-- ⛪I help to initialize the website of our lab, welcome to visit [ICT-MobileComputingTeam](https://sprinter1999.github.io/ICT-MobileComputingTeam/)!
+- ⛪ I help to initialize the website of our lab, welcome to visit [ICT-MobileComputingTeam](https://sprinter1999.github.io/ICT-MobileComputingTeam/)!
 - 😄 I'll be a volunteer [@ACM Turing Meetup](https://www.acmturc.com/2023/cn/index.html) because my supervisor serves as a PC, perhaps we can meet in Wuhan this summer!
 - 🎉 Our [FedNoRo](https://github.com/wnn2000/FedNoRo) which focuses on noisy&long-tailed data got accepted **@IJCAI 2023** main track, congrats to ✨NanNan✨!
 - 📚 Accept to serve as a reviewer for **`NeurIPS'23` & `AAAI'23 workshop` & `KDD'23 workshop` & `ECAI'23`**.
