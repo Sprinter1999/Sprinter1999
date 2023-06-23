@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 - 🎉 Our [FedICT](https://arxiv.org/abs/2301.00389) got accepted **@IEEE/TPDS**, congrats to ✨Jerry✨!
 - ⛪ I help to initialize the website of our lab, welcome to visit [ICT-MobileComputingTeam](https://sprinter1999.github.io/ICT-MobileComputingTeam/)!
 - 😄 I'll be a volunteer [@ACM Turing Meetup](https://www.acmturc.com/2023/cn/index.html) because my supervisor serves as a PC, perhaps we can meet in Wuhan this summer!
-- 🎉 Our [FedNoRo](https://github.com/wnn2000/FedNoRo) which focuses on noisy&long-tailed data got accepted **@IJCAI 2023** main track, congrats to ✨NanNan✨!
+- 🎉 Our [FedNoRo](https://github.com/wnn2000/FedNoRo) which focuses on noisy&long-tailed data got accepted **@IJCAI'23** main track, congrats to ✨NanNan✨!
 - 📚 Accept to serve as a reviewer for **`NeurIPS'23` & `AAAI'23 workshop` & `KDD'23 FL workshop` & `ECAI'23` & `ACM TKDD`**.
-- 🎉 Two co-authored works [FedTrip](https://arxiv.org/abs/2304.05824)&FedBIAD got accepted **@IEEE/IPDPS 2023**, congrats to ✨Xujing&Jingjing✨!
-- 🗽 [My first work FedLSR](https://github.com/Sprinter1999/FedLSR) got accepted **@ACM/CIKM 2022** full paper track, and I'm currently working on its extension.
+- 🎉 Two co-authored works [FedTrip](https://arxiv.org/abs/2304.05824)&FedBIAD got accepted **@IEEE/IPDPS'23**, congrats to ✨Xujing&Jingjing✨!
+- 🗽 [My first work FedLSR](https://github.com/Sprinter1999/FedLSR) got accepted **@ACM/CIKM'22** full paper track, and I'm currently working on its extension.
 - 📖 Currently dive into the sea of knowledge and explore together with friends.
 - 🚗 Join AMD and focus on Auto-Drive (especially in visual SLAM & behavior prediction) as a "Co-op".
 ----
