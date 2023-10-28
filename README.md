@@ -6,7 +6,7 @@
 
 - 🍁 I'm Xuefen (雪枫 in Chinese), a Ph.D. student @[Institute of Computing Technology of Chinese Academy of Sciences](http://www.ict.ac.cn/), received my bachelor degree@[BUPT](https://scs.bupt.edu.cn/) in the summer of 2021.
 - 🌱 My research interest mainly includes `distributed ML system`, `data quality`,  `cyber security`, `AutoDrive` and `various deep learning applications`. I'm passionate about uncovering valuable & unsettled research topics, so perhaps we can collaborate to do some interesting things😆.
-- 📫 You can reach me via my email: jiangxf0903@gmail.com, visit my [personal website](https://sprinter1999.github.io/website/), view my [Google scholar](https://scholar.google.com/citations?user=ccOCPpEAAAAJ), and here is my [Resume (updated in Aug,2022)](https://github.com/Sprinter1999/Resume/blob/main/Xuefeng_Jiang_Resume.pdf).
+- 📫 You can reach me via my email: jiangxf0903@gmail.com, visit my [personal website](https://sprinter1999.github.io/website/), or view my [Google scholar](https://scholar.google.com/citations?user=ccOCPpEAAAAJ).(https://github.com/Sprinter1999/Resume/blob/main/Xuefeng_Jiang_Resume.pdf).
 - ✨ Take it slow because we can go further.
 - 🌼 I love films & anime & [sightseeing](https://www.instagram.com/snowmaker1999/) & music & night & sleeping a lot. I'm also an Apex & Overwatch amateur player : )
 - 😜 Thank you for your coming~
