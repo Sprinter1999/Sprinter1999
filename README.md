@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⛪ I help to initialize the website of our lab, welcome to visit [ICT-MobileComputingTeam](https://sprinter1999.github.io/ICT-MobileComputingTeam/)!
 - 😄 I'll be a volunteer [@ACM Turing Meetup](https://www.acmturc.com/2023/cn/index.html) because my supervisor serves as a PC, perhaps we can meet in Wuhan this summer!
 - 🎉 Our [FedNoRo](https://github.com/wnn2000/FedNoRo) which focuses on noisy&long-tailed data got accepted **@IJCAI'23** main track, congrats to NanNan!
-- 📚 I'm invited to serve as a reviewer for **`ICML` & `AISTATS` & `CVPR` & `WWW` & `ICLR` & `NeurIPS` & `AAAI workshop` & `KDD workshop` & `ECAI` & `ACM TKDD` & `IEEE TKDE` ** and help to review **`DCN`**.
+- 📚 I'm invited to serve as a reviewer for **`ICML` & `AISTATS` & `CVPR` & `WWW` & `ICLR` & `NeurIPS` & `AAAI workshop` & `KDD workshop` & `ECAI` & `ACM TKDD` & `IEEE TKDE`** and help to review **`DCN`**.
 - 🎉 Two co-authored works [FedTrip](https://ieeexplore.ieee.org/document/10177417)&[FedBIAD](https://ieeexplore.ieee.org/abstract/document/10177433) got accepted **@IEEE/IPDPS'23**, congrats to Xujing&Jingjing!
 - 🗽 [My first work FedLSR](https://github.com/Sprinter1999/FedLSR) got accepted **@ACM/CIKM'22** full paper track with SIGWeb/NSF student award, and I'm currently working on its extension and trying to provide a deeper understanding towards this direction.
 - 📖 Currently dive into the sea of knowledge and explore together with friends.
