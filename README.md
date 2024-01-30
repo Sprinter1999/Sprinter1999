@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🎉 Two co-authored works [FedTrip](https://ieeexplore.ieee.org/document/10177417)&[FedBIAD](https://ieeexplore.ieee.org/abstract/document/10177433) got accepted **@IEEE/IPDPS'23**, congrats to Xujing&Jingjing!
 - 🗽 [My first work FedLSR](https://github.com/Sprinter1999/FedLSR) got accepted **@ACM/CIKM'22** full paper track with SIGWeb/NSF student award, and I'm currently working on its extension and trying to provide a deeper understanding towards this direction.
 - 📖 Currently dive into the sea of knowledge and explore together with friends.
-- 🚗 Join AMD and focus on **Auto-Drive** (especially in visual SLAM & auto valet parking & behavior prediction) as a "Co-op".
+- 🚗 Join AMD and focus on **Auto-Drive** (especially in `multi-sensor SLAM` & `3D Perception` & `behavior prediction` & `LLM4Drive`) as a "Co-op".
 ----
 ### ❄Please feel free to contact me via WeChat, and it's a huge pleasure for me to discuss&chat with you.
 <img src="wx.jpg" alt="drawing" width="150"/>
