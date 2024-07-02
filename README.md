@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ----
 
-### 💬 Recent News~
+### 💬 Recent News~ ([more updates in here](https://sprinter1999.github.io/website/))
 - 🎉 Three works got accepted **@IEEE TPDS, INFOCOM and TMC**, congrats to Jerry!
 - ⛪ I help to initialize the website of our lab, welcome to visit [ICT-MobileComputingTeam](https://sprinter1999.github.io/ICT-MobileComputingTeam/)!
 - 😄 I'll be a volunteer [@ACM Turing Meetup](https://www.acmturc.com/2023/cn/index.html) because my supervisor serves as a PC, perhaps we can meet in Wuhan this summer!
