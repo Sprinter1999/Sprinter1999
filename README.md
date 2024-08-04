@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~ ([more updates in here](https://sprinter1999.github.io/website/))
-- 🗽 One full research paper got accepted on **CIKM'24** .
+- 🗽 [One full research paper]((https://github.com/Sprinter1999/FedELC)) got accepted on **CIKM'24** .
 - 🚗 We reach **top 6** teams in CVPR 2024 AutoDrive Grand Challenge (Driving with language track) with offline labels and multi-modal LLM. Our another work (AMD's SLAM solution for underground autonomous parking) will be relased on arxiv.
 - 🎉 Three works got accepted **@IEEE TPDS, INFOCOM and TMC**, congrats to Jerry!
 - ⛪ I help to initialize the website of our lab, welcome to visit [ICT-MobileComputingTeam](https://sprinter1999.github.io/ICT-MobileComputingTeam/)!
