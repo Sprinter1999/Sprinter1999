@@ -24,16 +24,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 😄 I'll be a volunteer [@ACM Turing Meetup](https://www.acmturc.com/2023/cn/index.html) because my supervisor serves as a PC, perhaps we can meet in Wuhan this summer!
 -->
 
 ----
 
 ### 💬 Recent News~ ([more updates in here](https://sprinter1999.github.io/website/))
+- 🎉 Our FedLF which focuses on long-tailed learning got accepted **@ACML** (~26% acceptance rate), congrats to Peng!
 - 🗽 [One full research paper](https://github.com/Sprinter1999/FedELC) got accepted on **ACM/CIKM'24**, see you in [Boise](https://cikm2024.org/).
 - 🚗 We reach **top 5** teams in CVPR 2024 AutoDrive Grand Challenge (Driving with language track) with offline labels and multi-modal LLM. Our another work (AMD's SLAM solution for underground autonomous parking) will be relased on arxiv.
 - 🎉 Three works got accepted **@IEEE TPDS, INFOCOM and TMC**, congrats to Jerry!
 - ⛪ I help to initialize the website of our lab, welcome to visit [ICT-MobileComputingTeam](https://sprinter1999.github.io/ICT-MobileComputingTeam/)!
-- 😄 I'll be a volunteer [@ACM Turing Meetup](https://www.acmturc.com/2023/cn/index.html) because my supervisor serves as a PC, perhaps we can meet in Wuhan this summer!
 - 🎉 Our [FedNoRo](https://github.com/wnn2000/FedNoRo) which focuses on noisy&long-tailed data got accepted **@IJCAI'23** main track, congrats to NanNan!
 - 📚 I'm invited to serve as a reviewer for **`ICML` & `AISTATS` & `CVPR` & `WWW` & `ICLR` & `NeurIPS` & `AAAI` & `AAAI workshop` & `KDD workshop` & `ECAI` & `ICME` & `ACM TKDD` & `IEEE TKDE` & `IEEE TIV`** and help to review **`DCN`**.
 - 🎉 Two co-authored works [FedTrip](https://ieeexplore.ieee.org/document/10177417)&[FedBIAD](https://ieeexplore.ieee.org/abstract/document/10177433) got accepted **@IEEE/IPDPS'23**, congrats to Xujing&Jingjing!
