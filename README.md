@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~ ([more updates in here](https://sprinter1999.github.io/website/))
-- 🎉 Our [FedLF](https://github.com/18sym/FedLF) which focuses on long-tailed learning got accepted **@ACML** (~26% acceptance rate).
+- 🎉 Our FedCrac and [FedLF](https://github.com/18sym/FedLF) which focuses on long-tailed learning got accepted by **TMC & ACML** (~26% acceptance rate).
 - 🗽 [One full research paper](https://github.com/Sprinter1999/FedELC) got accepted **@ACM/CIKM'24**, see you in [Boise](https://cikm2024.org/).
 - 🚗 We reach **top 5** teams in CVPR 2024 AutoDrive Grand Challenge ([Driving with language track](https://opendrivelab.com/challenge2024/#driving_with_language)) with offline labels and multi-modal LLM. Another work (AMD's SLAM solution for underground autonomous parking) is relased [here](https://arxiv.org/abs/2407.05017).
 - 🎉 Three works got accepted **@IEEE TPDS, INFOCOM and TMC**.
