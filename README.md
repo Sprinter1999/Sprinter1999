@@ -31,16 +31,15 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~ ([more updates in here](https://sprinter1999.github.io/website/))
+- 📕 We release one experimental study [**LLM4CVD**](https://github.com/SakiRinn/LLM4CVD) which exploits LLM to identify vulnerabilities within code.
 - 🎉 Our FedCrac and [FedLF](https://github.com/18sym/FedLF) which focuses on long-tailed learning got accepted by **IEEE TMC & ACML** (~26% acceptance rate).
-- 🗽 [One full research paper](https://github.com/Sprinter1999/FedELC) got accepted **@ACM/CIKM'24**, see you in [Boise](https://cikm2024.org/). We also release related benchmark study [FNBench](https://www.techrxiv.org/users/691169/articles/1215740-fnbench-benchmarking-robust-federated-learning-against-noisy-labels).
+- 🗽 [One full research paper](https://github.com/Sprinter1999/FedELC) got accepted **@ACM/CIKM'24**, see you in [Boise](https://cikm2024.org/). We also release one related benchmark study [FNBench](https://www.techrxiv.org/users/691169/articles/1215740-fnbench-benchmarking-robust-federated-learning-against-noisy-labels).
 - 🚗 We reach **top 5** teams in CVPR 2024 AutoDrive Grand Challenge ([Driving with language track](https://opendrivelab.com/challenge2024/#driving_with_language)) with offline labels and multi-modal LLM. Another work (AMD's SLAM solution for underground autonomous parking) is relased [here](https://arxiv.org/abs/2407.05017).
-- 🎉 Three works got accepted **@IEEE TPDS, INFOCOM and TMC**.
 - ⛪ I help to initialize the website of our lab, welcome to visit [ICT-MobileComputingTeam](https://sprinter1999.github.io/ICT-MobileComputingTeam/)!
 - 🎉 Our [FedNoRo](https://github.com/wnn2000/FedNoRo) which focuses on noisy&long-tailed data got accepted **@IJCAI'23** main track.
 - 📚 I'm invited to serve as a reviewer for **`ICML` & `AISTATS` & `CVPR` & `WWW` & `ICLR` & `NeurIPS` & `AAAI` & `AAAI workshop` & `KDD workshop` & `ECAI` & `ICME` & `ACM TKDD` & `IEEE TKDE` & `IEEE TNNLS` & `IEEE TIV`** and help to review **`DCN`**.
-- 🎉 Two co-authored works [FedTrip](https://ieeexplore.ieee.org/document/10177417)&[FedBIAD](https://ieeexplore.ieee.org/abstract/document/10177433) got accepted **@IEEE/IPDPS'23**.
 - 🗽 [My first work FedLSR](https://github.com/Sprinter1999/FedLSR) got accepted **@ACM/CIKM'22** full paper track with **SIGWeb/NSF student award**.
-- 🚗 Join AMD and focus on **Auto-Drive** (especially in `multi-sensor SLAM` & `3D Perception` & `behavior prediction` & `LLM4Drive`) as a "Co-op".
+- 🚗 Join AMD and focus on **Auto-Drive** (especially in `multi-sensor SLAM` & `Multi-modal Perception` & `LLM4Drive`) as a "Co-op".
 ----
 ### ❄Please feel free to contact me via WeChat, and it's a huge pleasure for me to discuss&chat with you.
 <img src="wx.jpg" alt="drawing" width="150"/>
