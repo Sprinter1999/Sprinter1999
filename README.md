@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🚗 We reach **top 5** teams in CVPR 2024 AutoDrive Grand Challenge ([Driving with language track](https://opendrivelab.com/challenge2024/#driving_with_language)) with offline labels and multi-modal LLM. Another work (AMD's SLAM solution for underground autonomous parking) is relased [here](https://arxiv.org/abs/2407.05017).
 - ⛪ I help to initialize the website of our lab, welcome to visit [ICT-MobileComputingTeam](https://sprinter1999.github.io/ICT-MobileComputingTeam/)!
 - 🎉 Our [FedNoRo](https://github.com/wnn2000/FedNoRo) which focuses on noisy&long-tailed data got accepted **@IJCAI'23** main track.
-- 📚 I'm invited to serve as a reviewer for **`ICML` & `AISTATS` & `CVPR` & `WWW` & `ICLR` & `NeurIPS` & `AAAI` & `AAAI workshop` & `KDD workshop` & `ECAI` & `ICME` & `ACM TKDD` & `IEEE TKDE` & `IEEE TNNLS` & `IEEE TIV`** and help to review **`DCN`**.
+- 📚 I'm invited to serve as a reviewer for **`ICML` & `AISTATS` & `CVPR` & `WWW` & `ICLR` & `NeurIPS` & `AAAI` & `ECAI` & `ICME` & `ACM TKDD` & `IEEE TKDE` & `IEEE TNNLS` & `IEEE TIV` & `IEEE TIFS`** and others.
 - 🗽 [My first work FedLSR](https://github.com/Sprinter1999/FedLSR) got accepted **@ACM/CIKM'22** full paper track with **SIGWeb/NSF student award**.
 - 🚗 Join AMD and focus on **Auto-Drive** (especially in `multi-sensor SLAM` & `Multi-modal Perception` & `LLM4Drive`) as a "Co-op".
 ----
