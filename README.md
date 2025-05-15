@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~ ([more updates in here](https://sprinter1999.github.io/website/))
+- 🚗 We release [**TransDiffuser**](https://arxiv.org/abs/2505.09315) which achieves the first place in the NAVSIM benchmark.
 - 📕 We release the codebase of  [**FNBench**](https://github.com/sprinter1999/FNBench) (IEEE TDSC Major Revision).
 - 📕 We release one experimental study [**LLM4CVD**](https://github.com/SakiRinn/LLM4CVD) which exploits LLMs to identify vulnerabilities within codes.
-- 🎉 [One full research paper](https://github.com/Sprinter1999/FedELC) got accepted [**@ACM/CIKM'24**](https://cikm2024.org/). We also release one related comprehensive benchmark study [FNBench](https://www.techrxiv.org/users/691169/articles/1215740-fnbench-benchmarking-robust-federated-learning-against-noisy-labels) and another [follow-up work](https://github.com/18sym/DualOptim). [Another work](https://github.com/18sym/FedLF) which focuses on long-tailed learning got accepted [**@ACML'24**](https://www.acml-conf.org/2024/) oral.
+- 🎉 [One full research paper](https://github.com/Sprinter1999/FedELC) got accepted [**@ACM/CIKM'24**](https://cikm2024.org/). We also release one related comprehensive benchmark study [FNBench](https://github.com/sprinter1999/FNBench) and another [follow-up work](https://github.com/18sym/DualOptim). [Another work](https://github.com/18sym/FedLF) which focuses on long-tailed learning got accepted [**@ACML'24**](https://www.acml-conf.org/2024/) oral.
 - 🚗 We reach **top 5** teams in CVPR 2024 AutoDrive Grand Challenge ([Driving with language track](https://opendrivelab.com/challenge2024/#driving_with_language)) with offline labels and multi-modal LLM. Another work (AMD's SLAM solution for underground autonomous parking) is relased [here](https://arxiv.org/abs/2407.05017).
 - 📚 I'm invited to serve as a reviewer for **`ICML` & `AISTATS` & `CVPR` & `WWW` & `ICLR` & `NeurIPS` & `CoRL` & `AAAI` & `ICCV`  & `ACM MM` & `ECAI` & `ICME` & `ACM TKDD` & `IEEE TKDE` & `IEEE TNNLS` & `IEEE TIV` & `IEEE TIFS`** and others.
 - 🚗 Joined **AMD AI Group** and focused on **Auto-Drive** (especially in `multi-sensor SLAM` & `Multi-modal Perception` & `LLM4Drive`) as a "Co-op" (2022.10-2024.8).
