@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~ ([more updates in here](https://sprinter1999.github.io/website/))
+- 🚗 We propose **LightVLA** which achieves the state-of-the-art performance on the LIBERO benchmark with significantly reduced computational overhead.
 - 🚗 We release [**TransDiffuser**](https://arxiv.org/abs/2505.09315) which achieves the first place in the NAVSIM benchmark.
 - 📕 We release the codebase of  [**FNBench**](https://github.com/sprinter1999/FNBench) (IEEE TDSC Major Revision).
 - 📕 We release one experimental study [**LLM4CVD**](https://github.com/SakiRinn/LLM4CVD) which exploits LLMs to identify vulnerabilities within codes.
