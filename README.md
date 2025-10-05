@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### 💬 Recent News~ ([more updates in here](https://sprinter1999.github.io/website/))
 - 🚗 We propose [**LightVLA**](https://liauto-research.github.io/LightVLA/) which achieves the state-of-the-art performance on the LIBERO benchmark with significantly reduced computational overhead.
 - 🚗 We release [**TransDiffuser**](https://arxiv.org/abs/2505.09315) which achieves the first place in the NAVSIM benchmark.
-- 📕 We release the codebase of  [**FNBench**](https://github.com/sprinter1999/FNBench) (IEEE TDSC Major Revision).
+- 📕 We release the codebase of  [**FNBench**](https://github.com/sprinter1999/FNBench).
 - 📕 We release one experimental study [**LLM4CVD**](https://github.com/SakiRinn/LLM4CVD) which exploits LLMs to identify vulnerabilities within codes.
 - 🎉 [One full research paper](https://github.com/Sprinter1999/FedELC) got accepted [**@ACM/CIKM'24**](https://cikm2024.org/). We also release one related comprehensive benchmark study [FNBench](https://github.com/sprinter1999/FNBench) and another [follow-up work](https://github.com/18sym/DualOptim). [Another work](https://github.com/18sym/FedLF) which focuses on long-tailed learning got accepted [**@ACML'24**](https://www.acml-conf.org/2024/) oral.
 - 🚗 We reach **top 5** teams in CVPR 2024 AutoDrive Grand Challenge ([Driving with language track](https://opendrivelab.com/challenge2024/#driving_with_language)) with offline labels and multi-modal LLM. Another work (AMD's SLAM solution for underground autonomous parking) is relased [here](https://arxiv.org/abs/2407.05017).
