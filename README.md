@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~ ([more updates in here](https://sprinter1999.github.io/website/))
+- 🚛 [2026.1] A new chapter rolls out.
 - 🧩 [2025.12] Our research paper FedROM got accepted by IEEE TMC with the corresponding open-sourced code [**(link)**](https://github.com/Sprinter1999/ROM). Anyway, 2025.12.18 should be remembered💦.
 - 🤖 [2025.9] We propose [**LightVLA**](https://liauto-research.github.io/LightVLA/) which achieves the state-of-the-art performance on the LIBERO benchmark with significantly reduced computational overhead.
 - 🚗 [2025.5] We release [**TransDiffuser**](https://arxiv.org/abs/2505.09315) which achieves the new state-of-the-art performance in the NAVSIM leaderboard.
