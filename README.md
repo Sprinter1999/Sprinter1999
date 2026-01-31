@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~ ([more updates in here](https://sprinter1999.github.io/website/))
-- 🥳 [2026.1] It is excited to share our TransDiffuser and LightVLA are accepted by **ICRA'26**, see you in Vienna!
+- 🥳 [2026.2] It is excited to share our TransDiffuser and LightVLA are accepted by **ICRA'26**, see you in Vienna!
 - 🚛 [2026.1] A new chapter rolls out.
 - 🧩 [2025.12] Our research paper [**FedROM**](https://github.com/Sprinter1999/ROM) got accepted by IEEE TMC. Anyway, 2025.12.18 should be remembered💦.
 - 🤖 [2025.9] We propose [**LightVLA**](https://liauto-research.github.io/LightVLA/) which achieves the state-of-the-art performance on the LIBERO benchmark with significantly reduced computational overhead.
