@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~ ([more updates in here](https://sprinter1999.github.io/website/))
-- 🐱 [2026.4] Our [**Zofia**](https://github.com/SakiRinn/ZoFia) (about misinformation) with multi-agent and RAG is accepted by **ACL'26 Findings**, congrats to SakiRinn! Meanwhile, one prior work about robust image retrieval is accepted by **IEEE TBD**.
+- 🐱 [2026.4] Our [**Zofia**](https://github.com/SakiRinn/ZoFia) (about misinformation) with multi-agent and RAG is accepted by **ACL'26 Findings**. Meanwhile, one prior work about robust image retrieval is accepted by [**IEEE TBD**](https://github.com/Sprinter1999/TriTAN).
 - 🥳 [2026.2] It is excited to share our **TransDiffuser&LightVLA** are accepted by **ICRA'26**, see you in Vienna!
-- 🧩 [2025.12] Our research paper [**FedROM**](https://github.com/Sprinter1999/ROM) got accepted by IEEE TMC. Anyway, 2025.12.18 should be remembered💦.
+- 🧩 [2025.12] Our research paper [**FedROM**](https://github.com/Sprinter1999/ROM) got accepted by **IEEE TMC**. Anyway, 2025.12.18 should be remembered💦.
 - 🤖 [2025.9] We propose [**LightVLA**](https://liauto-research.github.io/LightVLA/) which achieves the state-of-the-art performance on the LIBERO benchmark with significantly reduced computational overhead.
 - 🚗 [2025.5] We release [**TransDiffuser**](https://arxiv.org/abs/2505.09315) which achieves the new state-of-the-art performance in the NAVSIM leaderboard.
 - 📕 [2025.5] We release the codebase of  [**FNBench**](https://github.com/sprinter1999/FNBench).
