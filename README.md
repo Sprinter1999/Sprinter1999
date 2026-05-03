@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 ----
 
 ### 💬 Recent News~ ([more updates in here](https://sprinter1999.github.io/website/))
-- 🐱 [2026.4] Our [**Zofia**](https://github.com/SakiRinn/ZoFia) (about misinformation) is accepted by **ACL'26 Findings**. Meanwhile, one prior work about robust image retrieval is accepted by [**IEEE TBD**](https://github.com/Sprinter1999/TriTAN).
+- 🐱 [2026.4] Our [**Zofia**](https://github.com/SakiRinn/ZoFia) (about misinformation) is accepted by **ACL'26 Findings**. Meanwhile, our [**TriTAN**](https://github.com/Sprinter1999/TriTAN) about robust image retrieval is accepted by **IEEE TBD**.
 - 🥳 [2026.2] It is excited to share our twins **TransDiffuser&LightVLA** are accepted by **ICRA'26**, see you in Vienna!
 - 🧩 [2025.12] Our research paper [**FedROM**](https://github.com/Sprinter1999/ROM) got accepted by **IEEE TMC**. Anyway, 2025.12.18 should be remembered💦.
 - 🤖 [2025.9] We propose [**LightVLA**](https://liauto-research.github.io/LightVLA/) which achieves the state-of-the-art performance on the LIBERO benchmark with significantly reduced inferency overhead.
-- 🚗 [2025.5] Our [**TransDiffuser**](https://arxiv.org/abs/2505.09315) achieves the new state-of-the-art performance in the NAVSIM leaderboard. We release the codebase of  [**FNBench**](https://github.com/sprinter1999/FNBench).
+- 🚗 [2025.5] Our [**TransDiffuser**](https://arxiv.org/abs/2505.09315) achieves the new state-of-the-art performance in the NAVSIM leaderboard.
 - 📕 [2024.12] We release one experimental study [**LLM4CVD**](https://github.com/SakiRinn/LLM4CVD) which exploits LLMs to identify vulnerabilities within codes.
 - 🎉 [2024.7] [One full research paper](https://github.com/Sprinter1999/FedELC) got accepted [**@ACM/CIKM'24**](https://cikm2024.org/). We also release one related comprehensive benchmark study [FNBench](https://github.com/sprinter1999/FNBench) and another [follow-up work](https://github.com/18sym/DualOptim). [Another work](https://github.com/18sym/FedLF) which focuses on long-tailed learning got accepted [**@ACML'24**](https://www.acml-conf.org/2024/) oral.
 - 🚗 [2024.6] We reach **top 5** teams in CVPR 2024 AutoDrive Grand Challenge ([Driving with language track](https://opendrivelab.com/challenge2024/#driving_with_language)) with offline labels and multi-modal LLM. Another work (AMD's SLAM solution for underground autonomous parking) is released [here](https://arxiv.org/abs/2407.05017).
