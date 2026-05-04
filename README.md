@@ -9,7 +9,7 @@
  
 - 🍁 I'm Xuefen (雪枫 in Chinese), a final-year Ph.D. student @[Institute of Computing Technology of Chinese Academy of Sciences](http://www.ict.ac.cn/), received my bachelor degree@[BUPT](https://scs.bupt.edu.cn/) in the summer of 2021. 
 - 🌱 My research interest mainly includes `weakly supervised learning`, `misinformation`, `AutoDrive` and `various deep learning applications`. Previously, I've gained industry experience at AMD, Li Auto and Meituan. I'm passionate about uncovering valuable & unsettled research topics, so perhaps we can collaborate to do some interesting things😆.
-- 📫 You can reach me via my email: jiangxf0903@gmail.com, visit my [personal website](https://sprinter1999.github.io/website/), or view my [scholar](https://scholar.google.com/citations?user=ccOCPpEAAAAJ).\
+- 📫 You can reach me via my email: jiangxf0903@gmail.com, visit my [personal website](https://sprinter1999.github.io/website/), or view my [Google scholar](https://scholar.google.com/citations?user=ccOCPpEAAAAJ).
 - 🌼 I love films & anime & [sightseeing](https://www.instagram.com/snowmaker1999/) & music & night & sleeping a lot.
 - ✨ I'm the big fan of **Iris**.
 <!--
